@@ -1,0 +1,6 @@
+![Problem statement](https://github.com/user-attachments/assets/28a30e0d-6919-4578-b722-991540089808)
+![Example 1](https://github.com/user-attachments/assets/a03211d9-7676-4475-b0b0-23ca8bb37060)
+![Explanation](https://github.com/user-attachments/assets/9643370a-1444-4679-a8f9-654b80d2b786)
+![Constraints](https://github.com/user-attachments/assets/bf73abe4-561d-495c-ade9-7b18a6b47393)
+![Run](https://github.com/user-attachments/assets/b845fa75-b97e-4a47-9820-9eb85ed04f37)
+![Memory Distribution](https://github.com/user-attachments/assets/49c8b3ec-5d44-49e8-a967-95e40d4c02fd)
